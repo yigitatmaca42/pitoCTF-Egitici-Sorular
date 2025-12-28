@@ -1,9 +1,9 @@
 # 🥚 Haşlama Yumurta - Crypto Challenge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Crypto-Challenge-red?style=for-the-badge&logo=lock" alt="Crypto">
-  <img src="https://img.shields.io/badge/Difficulty-Kolay-green?style=for-the-badge&logo=target" alt="Difficulty">
-  <img src="https://img.shields.io/badge/Category-Hash%20Cracking-red?style=for-the-badge&logo=key" alt="Category">
+  <img src="https://img.shields.io/badge/Crypto-Challenge-9b59b6?style=for-the-badge&logo=lock" alt="Crypto">
+  <img src="https://img.shields.io/badge/Difficulty-Kolay-28a745?style=for-the-badge&logo=target" alt="Difficulty">
+  <img src="https://img.shields.io/badge/Type-Hash%20Cracking-e74c3c?style=for-the-badge&logo=key" alt="Hash Cracking">
 </p>
 
 ---
