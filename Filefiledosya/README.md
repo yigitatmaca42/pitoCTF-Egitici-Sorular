@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Forensics-Challenge-darkblue?style=for-the-badge&logo=files" alt="Forensics">
   <img src="https://img.shields.io/badge/Difficulty-Easy-darkgreen?style=for-the-badge&logo=target" alt="Difficulty">
-  <img src="https://img.shields.io/badge/Type-File%20Repair-orange?style=for-the-badge&logo=wrench" alt="File Repair">
+  <img src="https://img.shields.io/badge/Type-File%20Repair-purple?style=for-the-badge&logo=wrench" alt="File Repair">
 </p>
 
 ---
