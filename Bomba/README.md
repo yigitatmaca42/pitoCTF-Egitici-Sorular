@@ -259,26 +259,5 @@ Flag{9749d0_210_6050_595_9075_550d9479}
 
 ---
 
-## 📚 **Öğrenilenler**
-
-### **Ghidra Kullanımı**
-- Proje oluşturma ve dosya import etme
-- Decompiler ile binary'yi C koduna çevirme
-- Symbol Tree ile fonksiyon analizi
-- Defined Strings ile string keşfi
-
-### **Reverse Engineering Teknikleri**
-- Phase-by-phase analiz
-- Hex to Decimal dönüşüm (Ghidra hover özelliği)
-- String extraction (`builtin_strncpy`)
-- Array değerlerini okuma
-
-### **Challenge Çözüm Stratejisi**
-1. Önce genel yapıyı keşfet (strings, functions)
-2. Main fonksiyonunu incele
-3. Her phase'i ayrı ayrı decompile et
-4. Şifreleri birleştir ve test et
-
----
 
 😁😁 **Tebrikler! Bombayı Başarıyla Çözdünüz!** 😁😁
