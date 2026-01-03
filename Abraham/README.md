@@ -1,7 +1,7 @@
 # 🔍 Abraham - OSINT Challenge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OSINT-Challenge-blue?style=for-the-badge&logo=searchengineland" alt="OSINT">
+  <img src="https://img.shields.io/badge/OSINT-Challenge-darkblue?style=for-the-badge&logo=searchengineland" alt="OSINT">
   <img src="https://img.shields.io/badge/Difficulty-Orta-darkorange?style=for-the-badge&logo=target" alt="Difficulty">
   <img src="https://img.shields.io/badge/Bonus-+2%20Points-success?style=for-the-badge&logo=star" alt="Bonus">
 </p>
