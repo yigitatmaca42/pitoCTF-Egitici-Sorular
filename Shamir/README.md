@@ -14,6 +14,8 @@
 **Seviye:** Orta  
 **Açıklama:** Shamir Secret Sharing ile parçalanmış şifreyi birleştir.
 
+**Challenge Dosyası:** [📥 GitHub - Shamir.txt](https://github.com/yigitatmaca42/pitoCTF-Egitici-Sorular/blob/main/Shamir/Shamir.txt)
+
 **Verilen Parçalar:**
 - P1 (Share 1)
 - P2 (Share 2)
