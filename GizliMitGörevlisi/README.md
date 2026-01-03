@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/OSINT-Challenge-darkblue?style=for-the-badge&logo=searchengineland" alt="OSINT">
   <img src="https://img.shields.io/badge/Difficulty-Orta-darkorange?style=for-the-badge&logo=target" alt="Difficulty">
-  <img src="https://img.shields.io/badge/Type-Multi--Step%20Research-purple?style=for-the-badge&logo=magnifying-glass" alt="Multi-Step">
+  <img src="https://img.shields.io/badge/Type-Multi Step Research-purple?style=for-the-badge&logo=magnifying-glass" alt="Multi-Step">
 </p>
 
 ---
