@@ -1,7 +1,7 @@
 # 💣 Bomba - Reverse Engineering Challenge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reverse-Engineering-red?style=for-the-badge&logo=hackthebox" alt="Reverse">
+  <img src="https://img.shields.io/badge/Reverse-Challenge-blue?style=for-the-badge&logo=hackthebox" alt="Reverse">
   <img src="https://img.shields.io/badge/Difficulty-Orta-darkorange?style=for-the-badge&logo=target" alt="Difficulty">
   <img src="https://img.shields.io/badge/Tool-Ghidra-purple?style=for-the-badge&logo=ghost" alt="Ghidra">
 </p>
