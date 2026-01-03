@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Reverse Engineering-Challenge-darkblue?style=for-the-badge&logo=hackthebox" alt="Reverse">
   <img src="https://img.shields.io/badge/Difficulty-Orta-darkorange?style=for-the-badge&logo=target" alt="Difficulty">
-  <img src="https://img.shields.io/badge/Type String Analysis-purple?style=for-the-badge&logo=code" alt="String Analysis">
+  <img src="https://img.shields.io/badge/Type-String Analysis-purple?style=for-the-badge&logo=code" alt="String Analysis">
 </p>
 
 ---
