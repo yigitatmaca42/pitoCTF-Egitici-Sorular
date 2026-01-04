@@ -1,7 +1,7 @@
 # 🔓 Passpass - Reverse Engineering Challenge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reverse Engineering-Challenge-darkblue?style=for-the-badge&logo=hackaday" alt="Reverse">
+  <img src="https://img.shields.io/badge/Reverse Engineering-Challenge-darkblue?style=for-the-badge&" alt="Reverse">
   <img src="https://img.shields.io/badge/Difficulty-Kolay-darkgreen?style=for-the-badge&logo=target" alt="Difficulty">
   <img src="https://img.shields.io/badge/Type-String%20Analysis-purple?style=for-the-badge&logo=key" alt="String Analysis">
 </p>
