@@ -1,7 +1,7 @@
 # 🦠 ElfRansom - Malware Challenge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Malware-Challenge-darkblue?style=for-the-badge&logo=virus" alt="Malware">
+  <img src="https://img.shields.io/badge/Malware-Challenge-darkblue?style=for-the-badge&logo=hackaday" alt="Malware">
   <img src="https://img.shields.io/badge/Difficulty-Kolay-darkgreen?style=for-the-badge&logo=target" alt="Difficulty">
   <img src="https://img.shields.io/badge/Type-Ransomware-purple?style=for-the-badge&logo=lock" alt="Ransomware">
 </p>
