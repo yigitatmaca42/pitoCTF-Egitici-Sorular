@@ -1,7 +1,7 @@
 # 🔍 Log - Forensics Challenge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Forensics-Challenge-darkblue?style=for-the-badge&logo=searchcode" alt="Forensics">
+  <img src="https://img.shields.io/badge/Forensics-Challenge-darkblue?style=for-the-badge&logo=files" alt="Forensics">
   <img src="https://img.shields.io/badge/Difficulty-Easy-darkgreen?style=for-the-badge&logo=target" alt="Difficulty">
   <img src="https://img.shields.io/badge/Type-Base64%20%2B%20Hex-purple?style=for-the-badge&logo=lock" alt="Encoding">
 </p>
