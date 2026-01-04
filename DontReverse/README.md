@@ -1,7 +1,7 @@
 # 🚫 DontReverse - Reverse Engineering Challenge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reverse Engineering-Challenge-darkblue?style=for-the-badge&logo=hackthebox" alt="Reverse">
+  <img src="https://img.shields.io/badge/Reverse Engineering-Challenge-darkblue?style=for-the-badge" alt="Reverse">
   <img src="https://img.shields.io/badge/Difficulty-Kolay-darkgreen?style=for-the-badge&logo=target" alt="Difficulty">
   <img src="https://img.shields.io/badge/Bonus-+1%20Point-success?style=for-the-badge&logo=star" alt="Bonus">
 </p>
