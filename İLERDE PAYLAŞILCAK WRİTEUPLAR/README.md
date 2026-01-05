@@ -13,7 +13,7 @@ Coffee Time / Osint
 ---
 Mac / Osint
 ---
-haftasonu çeceri / Misc
+haftasonu çecrezi / Misc
 ---
 Cipher / Crypto
 ---
