@@ -13,6 +13,7 @@
 **Kategori:** Crypto  
 **Seviye:** Kolay  
 **Puan:** 100  
+**Açıklama:** Pika pika?
 
 **Challenge Dosyası:** [📥 Google Drive - pikapika.txt](https://drive.google.com/file/d/1l-vHKe8YuGjAGzyoDvKAPTVkdl2vGYlx/view?usp=drivesdk)
 
