@@ -1,7 +1,7 @@
 # 🔐 Business Logic - Web Challenge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web-Challenge-darkblue?style=for-the-badge&logo=html5" alt="Web">
+  <img src="https://img.shields.io/badge/Web-Challenge-darkblue?style=for-the-badge" alt="Web">
   <img src="https://img.shields.io/badge/Difficulty-Kolay-darkgreen?style=for-the-badge&logo=target" alt="Difficulty">
   <img src="https://img.shields.io/badge/Type-Authentication%20Bypass-purple?style=for-the-badge&logo=shield" alt="Auth Bypass">
 </p>
