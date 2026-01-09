@@ -10,3 +10,7 @@ Dans / Crypto
 ---
 Boş / Crypto
 ---
+Sifrelenmis / Reverse
+---
+Byte / Reverse 
+---
