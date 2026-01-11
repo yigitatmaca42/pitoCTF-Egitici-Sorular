@@ -24,5 +24,7 @@ Logcat / Mobil
 ---
 Apk101 / Mobil
 ---
+Ssl pinning bypass / Mobil
+---
 OnemliMusteri / Malware
 ---
