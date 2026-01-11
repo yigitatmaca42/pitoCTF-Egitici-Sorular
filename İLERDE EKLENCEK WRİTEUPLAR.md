@@ -1,4 +1,4 @@
-### YENİ WRİTEUP'LAR 14.01.2026 09:00 DA EKLENCEK
+### YENİ WRİTEUP'LAR İLERDE EKLENCEK
 
 Linux Günü / Osint
 ---
