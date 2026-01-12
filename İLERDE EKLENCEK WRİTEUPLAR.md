@@ -28,5 +28,7 @@ Ssl pinning bypass / Mobil
 ---
 Palet / Mobil
 ---
+Giriş Kapalı / Mobil
+---
 OnemliMusteri / Malware
 ---
