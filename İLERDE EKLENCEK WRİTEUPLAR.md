@@ -4,7 +4,7 @@ Linux Günü / Osint
 ---
 internet / Osint
 ---
-Kayıp Video - Osint
+Kayıp Video / Osint
 ---
 Ura / Stego
 ---
