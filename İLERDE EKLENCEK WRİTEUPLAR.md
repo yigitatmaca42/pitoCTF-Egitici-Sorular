@@ -6,12 +6,6 @@ internet / Osint
 ---
 Kayıp Video / Osint
 ---
-Ura / Stego
----
-Dans / Crypto
----
-Boş / Crypto
----
 Sifrelenmis / Reverse
 ---
 Byte / Reverse 
@@ -19,6 +13,10 @@ Byte / Reverse
 Babyrev / Reverse
 ---
 FakeSezar / Reverse
+---
+Dans / Crypto
+---
+Boş / Crypto
 ---
 Logcat / Mobil
 ---
@@ -30,7 +28,13 @@ Palet / Mobil
 ---
 Giriş Kapalı / Mobil
 ---
-OnemliMusteri / Malware
+Business Logic2 / Web
+---
+Ura / Stego
+---
+Deep / Forensics
 ---
 Win / Pwn
+---
+OnemliMusteri / Malware
 ---
