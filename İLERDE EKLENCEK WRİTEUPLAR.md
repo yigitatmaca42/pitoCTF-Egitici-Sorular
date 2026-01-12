@@ -26,5 +26,7 @@ Apk101 / Mobil
 ---
 Ssl pinning bypass / Mobil
 ---
+Palet / Mobil
+---
 OnemliMusteri / Malware
 ---
