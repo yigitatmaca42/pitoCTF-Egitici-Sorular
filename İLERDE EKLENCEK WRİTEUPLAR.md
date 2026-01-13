@@ -34,6 +34,10 @@ Ura / Stego
 ---
 Deep / Forensics
 ---
+Paket / Misc
+---
+Zararli / Misc
+---
 Win / Pwn
 ---
 OnemliMusteri / Malware
