@@ -30,6 +30,8 @@ Giriş Kapalı / Mobil
 ---
 Business Logic2 / Web
 ---
+Tırcı / Web
+---
 Ura / Stego
 ---
 Deep / Forensics
