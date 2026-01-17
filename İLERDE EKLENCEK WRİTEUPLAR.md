@@ -6,6 +6,8 @@ internet / Osint
 ---
 Kayıp Video / Osint
 ---
+Kayıp Dosya / Osint
+---
 Sifrelenmis / Reverse
 ---
 Byte / Reverse 
@@ -17,6 +19,8 @@ FakeSezar / Reverse
 Dans / Crypto
 ---
 Boş / Crypto
+---
+Mesaj / Crypto
 ---
 GizliBayral / Crypto
 ---
@@ -35,6 +39,8 @@ Kız Kulesi / Mobil
 Business Logic2 / Web
 ---
 Tırcı / Web
+---
+Selam / Web
 ---
 Ura / Stego
 ---
