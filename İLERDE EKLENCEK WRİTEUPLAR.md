@@ -22,7 +22,7 @@ Boş / Crypto
 ---
 Mesaj / Crypto
 ---
-GizliBayral / Crypto
+GizliBayrak / Crypto
 ---
 Logcat / Mobil
 ---
@@ -41,6 +41,8 @@ Business Logic2 / Web
 Tırcı / Web
 ---
 Selam / Web
+---
+O eski halimden eser yok şimdi? / Web
 ---
 Ura / Stego
 ---
