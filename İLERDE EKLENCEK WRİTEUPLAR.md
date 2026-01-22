@@ -36,6 +36,8 @@ Giriş Kapalı / Mobil
 ---
 Kız Kulesi / Mobil
 ---
+IDOR / Mobil
+---
 Business Logic2 / Web
 ---
 Tırcı / Web
