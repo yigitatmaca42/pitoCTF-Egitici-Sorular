@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Pwn-Challenge-darkblue?style=for-the-badge" alt="Pwn">
   <img src="https://img.shields.io/badge/Difficulty-Kolay-darkgreen?style=for-the-badge&logo=target" alt="Difficulty">
-  <img src="https://img.shields.io/badge/Type-Format String-purple?style=for-the-badge&logo=buffer" alt="Format String">
+  <img src="https://img.shields.io/badge/Type-Format String-purple?style=for-the-badge" alt="Format String">
 </p>
 
 ---
