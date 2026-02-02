@@ -1,7 +1,7 @@
 # 🔐 Win - PWN Challenge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PWN-Challenge-darkblue?style=for-the-badge&logo=hackaday" alt="PWN">
+  <img src="https://img.shields.io/badge/PWN-Challenge-darkblue?style=for-the-badge" alt="PWN">
   <img src="https://img.shields.io/badge/Difficulty-Kolay-darkgreen?style=for-the-badge&logo=target" alt="Difficulty">
   <img src="https://img.shields.io/badge/Type-Buffer Overflow-purple?style=for-the-badge&logo=binary" alt="Buffer Overflow">
 </p>
