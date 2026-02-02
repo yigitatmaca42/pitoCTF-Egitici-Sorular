@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Crypto-Challenge-darkblue?style=for-the-badge&logo=key" alt="Crypto">
-  <img src="https://img.shields.io/badge/Difficulty-Orta-darkrange?style=for-the-badge&logo=target" alt="Difficulty">
+  <img src="https://img.shields.io/badge/Difficulty-Orta-darkorange?style=for-the-badge&logo=target" alt="Difficulty">
   <img src="https://img.shields.io/badge/Type-Whitespace_Stego-purple?style=for-the-badge&logo=file" alt="Whitespace">
 </p>
 
