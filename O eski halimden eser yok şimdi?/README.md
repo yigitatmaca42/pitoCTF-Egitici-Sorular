@@ -1,7 +1,7 @@
 # 🌐 O eski halimden eser yok şimdi? - Web Challenge
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web-Challenge-darkblue?style=for-the-badge&logo=firefox" alt="Web">
+  <img src="https://img.shields.io/badge/Web-Challenge-darkblue?style=for-the-badge" alt="Web">
   <img src="https://img.shields.io/badge/Difficulty-Orta-darkorange?style=for-the-badge&logo=target" alt="Difficulty">
   <img src="https://img.shields.io/badge/Type-Authentication_Bypass-purple?style=for-the-badge&logo=shield" alt="Auth Bypass">
 </p>
