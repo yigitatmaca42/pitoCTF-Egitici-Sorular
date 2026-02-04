@@ -1,4 +1,4 @@
-# 💉 injection2 - Web Challenge Write-up
+# 💉 injection2 - Web Challenge 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Web-Challenge-darkblue?style=for-the-badge" alt="Web">
