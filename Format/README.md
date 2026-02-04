@@ -1,4 +1,4 @@
-# 🔓 Format String - Pwn Challenge
+# 🔓 Format - Pwn Challenge
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pwn-Challenge-darkblue?style=for-the-badge" alt="Pwn">
