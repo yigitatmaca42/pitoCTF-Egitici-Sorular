@@ -11,6 +11,7 @@
 ## 📋 Soru Bilgileri
 
 **Kategori:** OSINT 
+
 **Seviye:** Orta  
 **Puan:** 300  
 **Açıklama:** Uzun zamandır peşinde olduğumuz siyah şapkalı hacker mac adresini sızdırmış. Kaçmadan konumunu bulmamız lazım.
