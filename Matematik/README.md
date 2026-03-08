@@ -1,4 +1,4 @@
-# 🧮 Matematik - Miscellaneous Challenge
+# 🧮 Matematik - Misc Challenge
 
 <p align="center">
   <img src="https://img.shields.io/badge/Misc-Challenge-darkblue?style=for-the-badge&logo=calculator" alt="Misc">
@@ -10,7 +10,7 @@
 
 ## 📋 Soru Bilgileri
 
-**Kategori:** Miscellaneous  
+**Kategori:** Misc
 **Seviye:** Orta  
 **Açıklama:** Matematik sevmiyoruz biz yaa.
 
