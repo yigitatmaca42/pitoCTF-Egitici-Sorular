@@ -1,4 +1,4 @@
-# 📱 Leak - Miscellaneous Challenge
+# 📱 Leak - Misc Challenge
 
 <p align="center">
   <img src="https://img.shields.io/badge/Misc-Challenge-darkblue?style=for-the-badge&logo=android" alt="Misc">
@@ -10,14 +10,11 @@
 
 ## 📋 Soru Bilgileri
 
-**Kategori:** Miscellaneous  
+**Kategori:** Misc
 **Seviye:** Kolay  
 **Açıklama:** Bu ne dosyası?
 
 **Challenge Dosyası:** [📥 Google Drive - LeakedFile.zip](https://drive.google.com/file/d/1SDZAkXcb6XNT6YFl5ix_aggAf-b9bOra/view?usp=drivesdk)
-
-**Verilen:**
-- LeakedFile.zip (Android backup dosyası)
 
 ---
 
