@@ -11,7 +11,7 @@
 ## 📋 Soru Bilgileri
   
 **Kategori:** Web  
-**Seviye:** Orta
+**Seviye:** Orta \n
 **Puan:** 1000  
 
 **Açıklama:** Agresif araçlara gerek yok. Size de zaman kaybı bana da zarar.
